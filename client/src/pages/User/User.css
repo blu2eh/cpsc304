@@ -1,0 +1,134 @@
+.user {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+.user .div {
+    background-color: #ffffff;
+    height: 720px;
+    position: relative;
+    width: 1280px;
+}
+.user .navigation-bar {
+    height: 26px;
+    left: 557px;
+    position: absolute;
+    top: 37px;
+    width: 165px;
+}
+.user .overlap {
+    height: 43px;
+    left: 418px;
+    position: absolute;
+    top: 556px;
+    width: 444px;
+}
+.user .group {
+    height: 43px;
+    left: 331px;
+    position: absolute;
+    top: 0;
+    width: 113px;
+}
+.user .img {
+    height: 43px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 113px;
+}
+.user .overlap-group-wrapper {
+    height: 35px;
+    left: 113px;
+    position: absolute;
+    top: 0;
+    width: 220px;
+}
+.user .overlap-group {
+    background-color: #fb9962;
+    border-radius: 50px;
+    height: 35px;
+    position: relative;
+    width: 218px;
+}
+.user .text-wrapper {
+    color: #000000;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    height: 18px;
+    left: 47px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 9px;
+    width: 124px;
+}
+.user .overlap-2 {
+    height: 43px;
+    left: 418px;
+    position: absolute;
+    top: 388px;
+    width: 444px;
+}
+.user .email-wrapper {
+    background-image: url(../../../public/images/User/searchbar.svg);
+    background-size: 100% 100%;
+    height: 33px;
+    left: 455px;
+    position: absolute;
+    top: 228px;
+    width: 371px;
+}
+.user .email {
+    background-color: transparent;
+    border: transparent;
+    outline: none;
+    height: 9px;
+    left: 16px;
+    position: absolute;
+    top: 12px;
+    width: 300px;
+}
+.user .password-wrapper {
+    background-image: url(../../../public/images/User/searchbar-1.svg);
+    background-size: 100% 100%;
+    height: 33px;
+    left: 455px;
+    position: absolute;
+    top: 296px;
+    width: 371px;
+}
+.user .password {
+    background-color: transparent;
+    border: transparent;
+    outline: none;
+
+    height: 9px;
+    left: 19px;
+    position: absolute;
+    top: 12px;
+    width: 300px;
+}
+.user .log-into-your {
+    height: 32px;
+    left: 470px;
+    position: absolute;
+    top: 132px;
+    width: 340px;
+}
+.user .new-with-us-click {
+    height: 71px;
+    left: 542px;
+    position: absolute;
+    top: 459px;
+    width: 197px;
+}
+.buttonss {
+    background-color: transparent;
+    background: transparent;
+    border: transparent;
+}

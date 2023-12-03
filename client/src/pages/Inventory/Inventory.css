@@ -1,0 +1,154 @@
+.refrigerator {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+.refrigerator .overlap-wrapper {
+    background-color: #ffffff;
+    height: 720px;
+    width: 1280px;
+}
+.refrigerator .overlap {
+    height: 640px;
+    position: relative;
+}
+.refrigerator .overlap-group {
+    height: 640px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1280px;
+}
+.refrigerator .rectangle {
+    height: 456px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1280px;
+}
+.refrigerator .fridge {
+    height: 48px;
+    left: 729px;
+    position: absolute;
+    top: 291px;
+    width: 48px;
+}
+.refrigerator .freezer {
+    height: 48px;
+    left: 729px;
+    position: absolute;
+    top: 128px;
+    width: 48px;
+}
+.refrigerator .refrigeratortext {
+    height: 195px;
+    left: 115px;
+    position: absolute;
+    top: 118px;
+    width: 574px;
+}
+.refrigerator .mydevices {
+    height: 14px;
+    left: 324px;
+    position: absolute;
+    top: 47px;
+    width: 76px;
+}
+.refrigerator .myinventory {
+    display: block;
+    height: 13px;
+    left: 429px;
+    position: absolute;
+    top: 48px;
+    width: 87px;
+}
+.refrigerator .mygrocerylist {
+    height: 14px;
+    left: 534px;
+    position: absolute;
+    top: 47px;
+    width: 99px;
+}
+.refrigerator .smartmenu {
+    height: 10px;
+    left: 645px;
+    position: absolute;
+    top: 48px;
+    width: 85px;
+}
+.refrigerator .userbutton {
+    height: 30px;
+    left: 1221px;
+    object-fit: cover;
+    position: absolute;
+    top: 35px;
+    width: 32px;
+}
+.refrigerator .icon {
+    height: 25px;
+    left: 112px;
+    position: absolute;
+    top: 38px;
+    width: 152px;
+}
+.refrigerator .image {
+    height: 560px;
+    left: 805px;
+    object-fit: cover;
+    position: absolute;
+    top: 80px;
+    width: 416px;
+    /*opacity: 0.3;*/
+    transform: scale(1.1); /* Default scale is 1 (no scaling) */
+    transform-origin: top left; /* Set the transform origin to the top-left corner */
+    transition: transform 0.3s ease; /* Add a smooth transition effect */
+}
+.refrigerator .topantry-wrapper {
+    background-image: url("../../../public/images/Inventory/rectangle-39.svg");
+    background-size: 100% 100%;
+    height: 41px;
+    left: 112px;
+    position: absolute;
+    top: 485px;
+    width: 199px;
+}
+.refrigerator .topantry {
+    height: 12px;
+    left: 70px;
+    position: absolute;
+    top: 16px;
+    width: 62px;
+}
+.refrigerator .deviceList {
+    z-index: 3;
+    position: absolute;
+    top: 400px;
+    left: 350px;
+    width: 416px;
+    transform: scale(0.65); /* Default scale is 1 (no scaling) */
+    transform-origin: top left; /* Set the transform origin to the top-left corner */
+    transition: transform 0.3s ease; /* Add a smooth transition effect */
+}
+
+.refrigerator .fridgeTable {
+    z-index: 2;
+    position: absolute;
+    top: 140px;
+    left: 825px;
+    width: 416px;
+    transform: scale(0.65); /* Default scale is 1 (no scaling) */
+    transform-origin: top left; /* Set the transform origin to the top-left corner */
+    transition: transform 0.3s ease; /* Add a smooth transition effect */
+}
+.refrigerator .fridgeTable2 {
+    z-index: 2;
+    position: absolute;
+    top: 320px;
+    left: 825px;
+    width: 416px;
+    transform: scale(0.65); /* Default scale is 1 (no scaling) */
+    transform-origin: top left; /* Set the transform origin to the top-left corner */
+    transition: transform 0.3s ease; /* Add a smooth transition effect */
+}

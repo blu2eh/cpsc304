@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "oracledb": "^6.2.0",
+    "ssh2": "^1.14.0",
+    "tunnel-ssh": "^5.1.1"
+  },
+  "name": "project_e3e2e_k6i8a_n2v7m",
+  "description": "Our project is the ultimate food organising application for university students and tech enthusiasts. The app will provide a user with meal suggestions and a grocery list, what food is stored in their fridge/pantry and where it's located inside the fridge/pantry, and also notifications for expiring food and an inventory log of their food.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,118 @@
+.pantry {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+.pantry .overlap-group-wrapper {
+    background-color: #ffffff;
+    height: 720px;
+    width: 1280px;
+}
+.pantry .overlap-group {
+    height: 709px;
+    position: relative;
+}
+.pantry .rectangle {
+    height: 456px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1280px;
+}
+.pantry .img {
+    height: 635px;
+    left: 0;
+    position: absolute;
+    top: 74px;
+    width: 1280px;
+}
+.pantry .deletearefrigerator {
+    height: 41px;
+    left: 112px;
+    position: absolute;
+    top: 502px;
+    width: 201px;
+}
+.pantry .pantrytext {
+    height: 194px;
+    left: 103px;
+    position: absolute;
+    top: 135px;
+    width: 574px;
+}
+.pantry .image {
+    height: 609px;
+    left: 802px;
+    object-fit: cover;
+    position: absolute;
+    top: 87px;
+    width: 331px;
+}
+.pantry .mydevices {
+    height: 14px;
+    left: 324px;
+    position: absolute;
+    top: 47px;
+    width: 76px;
+}
+.pantry .myinventory {
+    height: 13px;
+    left: 429px;
+    position: absolute;
+    top: 48px;
+    width: 87px;
+}
+.pantry .mygrocerylist {
+    height: 14px;
+    left: 534px;
+    position: absolute;
+    top: 47px;
+    width: 99px;
+}
+.pantry .smartmenu {
+    height: 10px;
+    left: 645px;
+    position: absolute;
+    top: 48px;
+    width: 85px;
+}
+.pantry .userbutton {
+    height: 30px;
+    left: 1221px;
+    object-fit: cover;
+    position: absolute;
+    top: 35px;
+    width: 32px;
+}
+.pantry .icon {
+    height: 25px;
+    left: 112px;
+    position: absolute;
+    top: 38px;
+    width: 152px;
+}
+
+.pantry .pantryList {
+    z-index: 3;
+    position: absolute;
+    top: 400px;
+    left: 350px;
+    width: 416px;
+    transform: scale(0.65); /* Default scale is 1 (no scaling) */
+    transform-origin: top left; /* Set the transform origin to the top-left corner */
+    transition: transform 0.3s ease; /* Add a smooth transition effect */
+}
+
+.pantry .pantryTable {
+    z-index: 2;
+    position: absolute;
+    top: 140px;
+    left: 850px;
+    width: 416px;
+    transform: scale(0.65); /* Default scale is 1 (no scaling) */
+    transform-origin: top left; /* Set the transform origin to the top-left corner */
+    transition: transform 0.3s ease; /* Add a smooth transition effect */
+}
+/*.pantry*/

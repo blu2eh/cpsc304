@@ -1,0 +1,134 @@
+/* PantryOverlayAdd.css */
+.refrigerator-overlay-ADD {
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* 100% of the viewport height */
+
+}
+
+.refrigerator-overlay-ADD .overlap-group-wrapper {
+    background-color: transparent;
+    color: transparent;
+
+    width: 464px;
+}
+
+.refrigerator-overlay-ADD .overlap-group {
+    background-color: transparent;
+    color: transparent;
+    position: absolute;
+    z-index: 500;
+}
+
+.refrigerator-overlay-ADD .rectangle {
+    background-color: transparent;
+    color: transparent;
+    width: 390px;
+    height: 132px;
+    position: absolute;
+    top: 34px;
+    left: 37px;
+    z-index: 800;
+
+}
+
+.refrigerator-overlay-ADD .img {
+    width: 464px;
+    height: 203px;
+    position: absolute;
+    z-index: 1000;
+
+    top: 50%; /* Adjust based on your design */
+    left: 50%; /* Adjust based on your design */
+    transform: translate(-50%, -50%); /* Center the element */
+
+}
+
+/* Move these elements relative to .img */
+.refrigerator-overlay-ADD .brand {
+    background-image: url("../../../public/images/RefrigeratorOverlayAdd/search bar.svg");
+    background-size: 100% 100%;
+    border: transparent;
+    width: 251px;
+    height: 20px;
+    position: absolute;
+    top: 45%; /* Adjust based on your design */
+    left: 50%; /* Adjust based on your design */
+    transform: translate(-50%, -50%); /* Center the element */
+    background-color: transparent;
+    border: transparent;
+    outline: none;
+    z-index: 1000;
+}
+.refrigerator-overlay-ADD .model {
+    background-image: url("../../../public/images/RefrigeratorOverlayAdd/search bar.svg");
+    background-size: 100% 100%;
+    border: transparent;
+    width: 251px;
+    height: 20px;
+    position: absolute;
+    top: 50%; /* Adjust based on your design */
+    left: 50%; /* Adjust based on your design */
+    transform: translate(-50%, -50%); /* Center the element */
+    background-color: transparent;
+    border: transparent;
+    outline: none;
+    z-index: 1000;
+}
+.refrigerator-overlay-ADD .serial {
+    background-image: url("../../../public/images/RefrigeratorOverlayAdd/search bar.svg");
+    background-size: 100% 100%;
+    border: transparent;
+    width: 251px;
+    height: 20px;
+    position: absolute;
+    top: 55%; /* Adjust based on your design */
+    left: 50%; /* Adjust based on your design */
+    transform: translate(-50%, -50%); /* Center the element */
+    background-color: transparent;
+    border: transparent;
+    outline: none;
+    z-index: 1000;
+}
+.refrigerator-overlay-ADD .welcome-your-new {
+    width: 204px;
+    height: 13px;
+    position: absolute;
+    top: 29px;
+    left: 129px;
+    top: 40%; /* Adjust based on your design */
+    left: 50%; /* Adjust based on your design */
+    transform: translate(-50%, -50%); /* Center the element */
+
+    z-index: 1000;
+
+}
+
+.refrigerator-overlay-ADD .add-refrigerator,
+.refrigerator-overlay-ADD .cancel {
+    width: 168px;
+    height: 27px;
+    position: absolute;
+    top: 50%; /* Adjust based on your design */
+    left: 50%; /* Adjust based on your design */
+    transform: translate(-50%, -50%); /* Center the element */
+    z-index: 1000;
+
+
+}
+
+.refrigerator-overlay-ADD .add-refrigerator {
+    top: 60%; /* Adjust based on your design */
+    left: 55%; /* Adjust based on your design */
+    transform: translate(-10%, -10%); /* Center the element */
+    z-index: 1000;}
+
+
+.refrigerator-overlay-ADD .cancel {
+    top: 60%; /* Adjust based on your design */
+    left: 35%; /* Adjust based on your design */
+    transform: translate(-10%, -10%); /* Center the element */
+    z-index: 1000;
+}

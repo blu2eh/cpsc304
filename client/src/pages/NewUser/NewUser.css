@@ -1,0 +1,144 @@
+.new-user {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+.new-user .div {
+    background-color: #ffffff;
+    height: 720px;
+    position: relative;
+    width: 1280px;
+}
+.new-user .group {
+    height: 110px;
+    left: 398px;
+    position: absolute;
+    top: 127px;
+    width: 107px;
+}
+.new-user .navigation {
+    height: 26px;
+    left: 1136px;
+    position: absolute;
+    top: 675px;
+    width: 144px;
+}
+.new-user .overlap {
+    height: 43px;
+    left: 536px;
+    position: absolute;
+    top: 614px;
+    width: 326px;
+}
+.new-user .img {
+    height: 43px;
+    left: 213px;
+    position: absolute;
+    top: 0;
+    width: 113px;
+}
+.new-user .group-2 {
+
+    height: 35px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 218px;
+}
+.new-user .group-3 {
+    height: 43px;
+    left: 418px;
+    position: absolute;
+    top: 614px;
+    width: 113px;
+}
+.new-user .overlap-group {
+    background-image: url("../../../public/images/NewUser/searchbar.svg");
+    background-size: 100% 100%;
+    height: 33px;
+    left: 454px;
+    position: absolute;
+    top: 403px;
+    width: 371px;
+}
+.new-user .group-4 {
+    background-color: transparent;
+    border: transparent;
+    outline: none;
+    height: 33px;
+    left: 18px;
+    position: absolute;
+    top: 0;
+    width: 218px;
+}
+.new-user .group-wrapper {
+    background-image: url("../../../public/images/NewUser/searchbar-3.svg");
+    background-size: 100% 100%;
+    height: 33px;
+    left: 454px;
+    position: absolute;
+    top: 553px;
+    width: 371px;
+}
+.new-user .img-wrapper {
+    background-image: url("../../../public/images/NewUser/searchbar-2.svg");
+    background-size: 100% 100%;
+    height: 33px;
+    left: 454px;
+    position: absolute;
+    top: 503px;
+    width: 371px;
+}
+.new-user .overlap-2 {
+    background-image: url("../../../public/images/NewUser/searchbar-2.svg");
+    background-size: 100% 100%;
+    height: 33px;
+    left: 454px;
+    position: absolute;
+    top: 453px;
+    width: 371px;
+}
+.new-user .bao {
+    height: 106px;
+    left: 691px;
+    position: absolute;
+    top: 127px;
+    width: 107px;
+}
+.new-user .cake {
+    height: 106px;
+    left: 544px;
+    position: absolute;
+    top: 127px;
+    width: 107px;
+}
+.new-user .donut {
+    height: 106px;
+    left: 464px;
+    position: absolute;
+    top: 254px;
+    width: 109px;
+}
+.new-user .origini {
+    height: 106px;
+    left: 623px;
+    position: absolute;
+    top: 254px;
+    width: 107px;
+}
+.new-user .icecream {
+    height: 106px;
+    left: 774px;
+    position: absolute;
+    top: 255px;
+    width: 107px;
+}
+.new-user .welcome-message {
+    height: 30px;
+    left: 446px;
+    position: absolute;
+    top: 47px;
+    width: 388px;
+}

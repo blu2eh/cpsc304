@@ -1,0 +1,109 @@
+.smart-menu {
+    /*background-color: #ffffff;*/
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+.smart-menu .overlap-group-wrapper {
+    background-color: #ffffff;
+    height: 720px;
+    width: 1280px;
+}
+.smart-menu .overlap-group {
+    height: 720px;
+    position: relative;
+}
+.smart-menu .rectangle {
+    height: 456px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1280px;
+}
+.smart-menu .mydevices {
+    height: 14px;
+    left: 324px;
+    position: absolute;
+    top: 47px;
+    width: 76px;
+}
+.smart-menu .myinventory {
+    height: 13px;
+    left: 429px;
+    position: absolute;
+    top: 48px;
+    width: 87px;
+}
+.smart-menu .mygrocerylist {
+    height: 14px;
+    left: 534px;
+    position: absolute;
+    top: 47px;
+    width: 99px;
+}
+.smart-menu .smartmenu {
+    display: block;
+    height: 10px;
+    left: 645px;
+    position: absolute;
+    top: 48px;
+    width: 85px;
+}
+.smart-menu .userbutton {
+    height: 30px;
+    left: 1221px;
+    object-fit: cover;
+    position: absolute;
+    top: 35px;
+    width: 32px;
+}
+.smart-menu .icon {
+    height: 25px;
+    left: 112px;
+    position: absolute;
+    top: 38px;
+    width: 152px;
+}
+.smart-menu .img {
+    height: 635px;
+    left: 0;
+    position: absolute;
+    top: 74px;
+    width: 1280px;
+}
+.smart-menu .image {
+    height: 608px;
+    left: 214px;
+    object-fit: cover;
+    position: absolute;
+    top: 112px;
+    width: 851px;
+}
+.smart-menu .recipetext {
+    height: 50px;
+    left: 290px;
+    position: absolute;
+    top: 114px;
+    width: 678px;
+}
+
+.smart-menu .recipe-content {
+    position: absolute;
+    top: 300px; /* Adjust as necessary */
+    left: 400px; /* Adjust to position over the book image */
+    color: #333; /* Or any color that matches your design */
+    text-align: left;
+    z-index: 10; /* Ensure it appears above the book image */
+}
+
+/* You might want to add more styles for the recipe title and content */
+.smart-menu .recipe-content h2 {
+    margin: 0;
+    font-size: 24px; /* Or any size that fits well */
+}
+
+.smart-menu .recipe-content p {
+    margin: 0;
+    font-size: 16px; /* Or any size that fits well */
+}

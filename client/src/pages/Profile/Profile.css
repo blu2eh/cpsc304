@@ -1,0 +1,210 @@
+.profile {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+.profile .overlap-group-wrapper {
+    background-color: #ffffff;
+    height: 720px;
+    width: 1280px;
+}
+.profile .overlap-group {
+    height: 720px;
+    position: relative;
+}
+.profile .rectangle {
+    height: 456px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1280px;
+}
+.profile .img {
+    height: 646px;
+    left: 0;
+    position: absolute;
+    top: 74px;
+    width: 1280px;
+}
+.profile .welcometext {
+    height: 120px;
+    left: 100px;
+    position: absolute;
+    top: 137px;
+    width: 290px;
+}
+.profile .searchbar {
+    height: 33px;
+    left: 566px;
+    position: absolute;
+    top: 276px;
+    width: 371px;
+}
+.profile .PHONENUMBER {
+    background-color: transparent;
+    border: transparent;
+    outline: none;
+    height: 9px;
+    left: 585px;
+    position: absolute;
+    top: 289px;
+    width: 300px;
+}
+.profile .phonetext {
+    height: 18px;
+    left: 566px;
+    position: absolute;
+    top: 248px;
+    width: 248px;
+}
+.profile .searchbar-2 {
+    height: 33px;
+    left: 567px;
+    position: absolute;
+    top: 375px;
+    width: 371px;
+}
+.profile .EMAILADDRESS {
+    background-color: transparent;
+    border: transparent;
+    outline: none;
+    height: 9px;
+    left: 586px;
+    position: absolute;
+    top: 388px;
+    width: 300px;
+}
+.profile .emailtext {
+    height: 19px;
+    left: 567px;
+    position: absolute;
+    top: 346px;
+    width: 234px;
+}
+
+.profile .USERNAME {
+    height: 34px;
+    left: 103px;
+    position: absolute;
+    top: 295px;
+    width: 251px;
+}
+.profile .usernametext {
+    height: 17px;
+    left: 566px;
+    position: absolute;
+    top: 144px;
+    width: 201px;
+}
+.profile .searchbar-3 {
+    height: 33px;
+    left: 566px;
+    position: absolute;
+    top: 173px;
+    width: 371px;
+}
+.profile .USERNAME-2 {
+    background-color: transparent;
+    border: transparent;
+    outline: none;
+    height: 9px;
+    left: 585px;
+    position: absolute;
+    top: 186px;
+    width: 300px;
+}
+.profile .mydevices {
+    height: 14px;
+    left: 322px;
+    position: absolute;
+    top: 56px;
+    width: 76px;
+}
+.profile .myinventory {
+    height: 13px;
+    left: 427px;
+    position: absolute;
+    top: 57px;
+    width: 87px;
+}
+.profile .mygrocerylist {
+    height: 14px;
+    left: 532px;
+    position: absolute;
+    top: 56px;
+    width: 99px;
+}
+.profile .smartmenu {
+    height: 10px;
+    left: 643px;
+    position: absolute;
+    top: 57px;
+    width: 85px;
+}
+.profile .icon {
+    height: 26px;
+    left: 97px;
+    position: absolute;
+    top: 44px;
+    width: 165px;
+}
+.profile .userbutton {
+    display: block;
+    height: 30px;
+    left: 1219px;
+    object-fit: cover;
+    position: absolute;
+    top: 44px;
+    width: 32px;
+}
+.profile .hotpot-instance {
+    height: 147px !important;
+    left: 53px !important;
+    position: absolute !important;
+    top: 522px !important;
+    width: 147px !important;
+}
+.profile .donuts-instance {
+    height: 147px !important;
+    left: 222px !important;
+    position: absolute !important;
+    top: 522px !important;
+    width: 147px !important;
+}
+.profile .sushi-instance {
+    height: 147px !important;
+    left: 391px !important;
+    position: absolute !important;
+    top: 522px !important;
+    width: 147px !important;
+}
+.profile .ramen-instance {
+    height: 147px !important;
+    left: 560px !important;
+    position: absolute !important;
+    top: 522px !important;
+    width: 147px !important;
+}
+.profile .fries-instance {
+    height: 147px !important;
+    left: 729px !important;
+    position: absolute !important;
+    top: 522px !important;
+    width: 147px !important;
+}
+.profile .pancake-instance {
+    height: 147px !important;
+    left: 898px !important;
+    position: absolute !important;
+    top: 522px !important;
+    width: 147px !important;
+}
+.profile .cookies-instance {
+    height: 147px !important;
+    left: 1067px !important;
+    position: absolute !important;
+    top: 522px !important;
+    width: 147px !important;
+}
